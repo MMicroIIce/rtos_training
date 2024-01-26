@@ -1,0 +1,65 @@
+build/machines/cortex/armv7em/stm32f407/tpl_memory_protection.c.o: \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/tpl_memory_protection.c \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_compiler.h \
+ appli_base/tpl_app_define.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h \
+ appli_base/Compiler.h appli_base/Compiler_Cfg.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_std_types.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine_cortex.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_std_types.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_os_internal_types.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_os_custom_types.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_os_application_def.h \
+ appli_base/tpl_app_custom_types.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_compiler.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_os_custom_types.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_kernel_stack.h \
+ appli_base/cmsis_wrapper.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cm4.h \
+ /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmInstr.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmFunc.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmSimd.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/stm32f4xx_conf.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_exti.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_syscfg.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/misc.h
+/home/thomas/Documents/RTOS/trampoline/os/tpl_compiler.h:
+appli_base/tpl_app_define.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h:
+appli_base/Compiler.h:
+appli_base/Compiler_Cfg.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_std_types.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine_cortex.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_std_types.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_os_internal_types.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_os_custom_types.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_os_application_def.h:
+appli_base/tpl_app_custom_types.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_compiler.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_os_custom_types.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_machine.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_kernel_stack.h:
+appli_base/cmsis_wrapper.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cm4.h:
+/usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmInstr.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmFunc.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/CMSIS/Include/core_cmSimd.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/stm32f4xx_conf.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_exti.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_syscfg.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/misc.h:

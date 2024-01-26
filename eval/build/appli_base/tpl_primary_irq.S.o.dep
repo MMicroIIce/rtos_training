@@ -1,0 +1,17 @@
+build/appli_base/tpl_primary_irq.S.o: appli_base/tpl_primary_irq.S \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_assembler.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_asm_definitions.h \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_kernel_stack.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_as_memmap.h \
+ appli_base/tpl_app_define.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h \
+ appli_base/AsMemMap.h
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_assembler.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_asm_definitions.h:
+/home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_os_kernel_stack.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_as_memmap.h:
+appli_base/tpl_app_define.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h:
+appli_base/AsMemMap.h:

@@ -1,0 +1,12 @@
+build/machines/cortex/tpl_startup.S.o: \
+ /home/thomas/Documents/RTOS/trampoline/machines/cortex/tpl_startup.S \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_as_memmap.h \
+ appli_base/tpl_app_define.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h \
+ /home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h \
+ appli_base/AsMemMap.h
+/home/thomas/Documents/RTOS/trampoline/os/tpl_as_memmap.h:
+appli_base/tpl_app_define.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_def.h:
+/home/thomas/Documents/RTOS/trampoline/os/tpl_config_check.h:
+appli_base/AsMemMap.h:
